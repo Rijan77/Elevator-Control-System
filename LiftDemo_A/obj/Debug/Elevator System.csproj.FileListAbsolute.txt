@@ -1,0 +1,20 @@
+C:\SirSlef\LiftDemo_A\LiftDemo_A\bin\Debug\LiftDemo_A.exe.config
+C:\SirSlef\LiftDemo_A\LiftDemo_A\bin\Debug\LiftDemo_A.exe
+C:\SirSlef\LiftDemo_A\LiftDemo_A\bin\Debug\LiftDemo_A.pdb
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\Elevator System.csproj.AssemblyReference.cache
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\LiftDemo_A.Form1.resources
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\LiftDemo_A.Properties.Resources.resources
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\Elevator System.csproj.GenerateResource.cache
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\Elevator System.csproj.CoreCompileInputs.cache
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\LiftDemo_A.exe
+C:\SirSlef\LiftDemo_A\LiftDemo_A\obj\Debug\LiftDemo_A.pdb
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\bin\Debug\LiftDemo_A.exe.config
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\bin\Debug\LiftDemo_A.exe
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\bin\Debug\LiftDemo_A.pdb
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\Elevator System.csproj.AssemblyReference.cache
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\LiftDemo_A.Form1.resources
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\LiftDemo_A.Properties.Resources.resources
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\Elevator System.csproj.GenerateResource.cache
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\Elevator System.csproj.CoreCompileInputs.cache
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\LiftDemo_A.exe
+C:\SirSlef\Elevator system\Elevator Control System\LiftDemo_A\obj\Debug\LiftDemo_A.pdb
